@@ -1,4 +1,4 @@
-# Magisk on WSA (with Google Apps)
+f02a9c06cd03efa8fbffa5c7dc3ed261f1ccbf88# Magisk on WSA (with Google Apps)
 
 ## Features
 - Integrate Magisk and OpenGApps in a few clicks within minutes
